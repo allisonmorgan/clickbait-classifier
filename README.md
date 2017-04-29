@@ -3,7 +3,7 @@ Example of using a [naive Bayesian classifier](https://github.com/lytics/multiba
 
 ### Example
 
-```{go}
+```go
 package main
 
 import (
